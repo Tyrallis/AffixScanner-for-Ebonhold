@@ -1,7 +1,7 @@
 [README.md](https://github.com/user-attachments/files/26905277/README.md)
 # AffixScanner
 
-![WoW Version](https://img.shields.io/badge/WoW-WotLK%203.4.3-blue)
+![WoW Version](https://img.shields.io/badge/WoW-WotLK%203.3.5a-blue)
 ![Addon Type](https://img.shields.io/badge/Addon-Item%20Overlay%20%26%20Tooltip-orange)
 ![Status](https://img.shields.io/badge/Status-Active-success)
 
